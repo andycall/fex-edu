@@ -138,6 +138,7 @@ FEX 学院
 - [ ] 《[Apprenticeship Patterns](http://book.douban.com/subject/3572917/)》《[软件开发者路线图](http://book.douban.com/subject/4924164/)》
 - [ ] 《[影响力](http://book.douban.com/subject/6712294/)》
 - [ ] 《[如何高效学习](http://book.douban.com/subject/25783654/)》
+- [ ] 《[黑客与画家](http://book.douban.com/subject/6021440/)》
 
 ## 架构
 
